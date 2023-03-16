@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6p09tysrjysvbtfx/branch/main?svg=true)](https://ci.appveyor.com/project/YuliyaTonkikh/aqa-ep2-1-web/branch/main)
